@@ -4,18 +4,18 @@
 1. 
 
     ```bash
-         git init
+    git init
 
     ```
 2.
 
     ```bash
-        git clone <remote-url>
+    git clone <remote-url>
 
     ```
 3. 
 
     ```bash
-        cd <repository>
+    cd <repository>
 
     ```
