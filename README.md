@@ -1,4 +1,4 @@
-# Atm bank application few feature how atm work.
+# Atm bank application .few Feture add to check how Atm appllication Work.
 
 ## Git in case this error come: " fatal: not a git repository (or any of the parent directories): .git"
 
