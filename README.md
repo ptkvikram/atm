@@ -5,7 +5,7 @@
 1. step 1
 
 ```bash
-conda create -n assistant python=3.10
+git init
 
 ```
 2. step 2
