@@ -1,21 +1,22 @@
 # Atm bank application few feature how atm work.
 
 ## Git in case this error come: " fatal: not a git repository (or any of the parent directories): .git"
-1. 
 
-    ```bash
-    git init
+1. step 1
 
-    ```
-2.
+```bash
+conda create -n assistant python=3.10
 
-    ```bash
-    git clone <remote-url>
+```
+2. step 2
 
-    ```
-3. 
+```bash
+git clone <remote-url>
 
-    ```bash
-    cd <repository>
+```
+3. step 3
 
-    ```
+```bash
+cd <repository>
+
+```
